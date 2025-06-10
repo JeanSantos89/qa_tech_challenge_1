@@ -8,28 +8,4 @@ Projeto de automação de testes E2E para uma aplicação de e-commerce (https:/
 - Relatórios de bugs encontrados, estruturados com detalhes (ID, descrição, ambiente, evidências) no diretório bug_reports/.
 = Pipeline básico de execução via GitHub Actions já configurado para rodar os testes automaticamente.
 
-**⚠️ Estou adaptando e incrementando:**
 
-**Gestão completa via Jira:**
-
-- ➡️ Criando Epics, User Stories, Bugs e rastreabilidade entre requisitos e testes.
-
-**Estruturação dos testes no Xray:**
-
-- ➡️ Migrando os casos de teste para o Xray, transformando-os em Test Cases formais.
-
-- ➡️ Configurando Test Executions para controlar execuções manuais e automatizadas.
-
-**Integração contínua:**
-
-- ➡️ Ajustando o pipeline de CI/CD no GitHub Actions para:
-
-- ➡️ Rodar testes automaticamente a cada push ou PR.
-
-- ➡️ Preparar integração com o Xray via API, para automatizar a atualização dos resultados dos testes.
-
-**⌛ Expansão contínua:**
-- ➡️ Incrementando novos cenários de teste, novos fluxos críticos e realizando bug hunting para fortalecer a cobertura.
-
-**⚠️ LINK JIRA PARA VISUALIZAÇÃO BÁSICA**
-- https://jeansaantos89.atlassian.net/jira/dashboards/10001?maximized=10004
